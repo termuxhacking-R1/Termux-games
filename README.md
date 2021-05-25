@@ -18,7 +18,7 @@ Instagram : https://www.instagram.com/termuxhacking11/ <br>
 ```pkg install git -y```
 <br>
 <br>
-```git clone https://github.com/termuxhacking-R1/Termux-games/```
+```git clone https://github.com/termuxhacking-R1/Termux-games```
 <br><br>
 ```cd Termux-games```
 <br><br>
